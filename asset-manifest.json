@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kusdix/static/css/main.b7599929.chunk.css",
+    "main.js": "/kusdix/static/js/main.1dd643ca.chunk.js",
+    "main.js.map": "/kusdix/static/js/main.1dd643ca.chunk.js.map",
+    "runtime-main.js": "/kusdix/static/js/runtime-main.c7abd216.js",
+    "runtime-main.js.map": "/kusdix/static/js/runtime-main.c7abd216.js.map",
+    "static/js/2.5c7949d1.chunk.js": "/kusdix/static/js/2.5c7949d1.chunk.js",
+    "static/js/2.5c7949d1.chunk.js.map": "/kusdix/static/js/2.5c7949d1.chunk.js.map",
+    "index.html": "/kusdix/index.html",
+    "precache-manifest.82d72f3a17808c3e33b6f1af50aad003.js": "/kusdix/precache-manifest.82d72f3a17808c3e33b6f1af50aad003.js",
+    "service-worker.js": "/kusdix/service-worker.js",
+    "static/css/main.b7599929.chunk.css.map": "/kusdix/static/css/main.b7599929.chunk.css.map",
+    "static/js/2.5c7949d1.chunk.js.LICENSE.txt": "/kusdix/static/js/2.5c7949d1.chunk.js.LICENSE.txt",
+    "static/media/duck.png": "/kusdix/static/media/duck.59b3d60d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7abd216.js",
+    "static/js/2.5c7949d1.chunk.js",
+    "static/css/main.b7599929.chunk.css",
+    "static/js/main.1dd643ca.chunk.js"
+  ]
+}
